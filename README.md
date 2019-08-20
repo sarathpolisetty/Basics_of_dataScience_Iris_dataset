@@ -18,6 +18,7 @@ Data Analysis
            
            Here we have 50 items of setosa, 50 items of verginica, 50 items of versicolor.                                                
            So, we have structured data set.                                                                                               
-           If the data set have items in the ratio like 50,15,85 then the data is said to be unstructured, which will lead to Over fitting of data.   Then our model will learn more about versicolor(85) and less about verginica(15) --->underfitting. 
+           If the data set have items in the ratio like 50,15,85 then the data is said to be unstructured, which will lead to Over fitting
+           of data.   Then our model will learn more about versicolor(85) and less about verginica(15) --->underfitting. 
         
 
