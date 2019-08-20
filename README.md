@@ -12,6 +12,8 @@ Data Analysis
                          5.Data exploration(build model)
                          6.prediction
              With an exampl:
-  1.Problem:- To predict weather a given flower belongs to one of the three types of iris flower family (setosa, verginica, versicolor).                                                                                                                                               2.Data Acquisition                                                                                                                                 Here we already have iris data set.                                                                                                       Iris data set was ceated by Fisher in 1936. These days, it got a lot of fame.                                                              ![](packages.png)       
+  1.Problem:- To predict weather a given flower belongs to one of the three types of iris flower family (setosa, verginica, versicolor).                                                                                                                                               2.Data Acquisition                                                                                                                                 Here we already have iris data set.                                                                                                       Iris data set was ceated by Fisher in 1936. These days, it got a lot of fame.                                                              ![](packages.png) 
+           Here, from the shape of the data set, we can say that there are 150 rows and 5 columns in the dataset.
+           ![](structured_data.png)
         
 
